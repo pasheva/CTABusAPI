@@ -1,4 +1,4 @@
-apparmor==2.13.3
+# apparmor==2.13.3
 appdirs==1.4.3
 astroid==2.2.5
 attrs==19.2.0
